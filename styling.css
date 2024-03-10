@@ -1,0 +1,31 @@
+body{
+    background: url(bg-dark-4784.png);
+    background-color: #bebcbc;
+    font-family: Tahoma;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+#container{   
+    width: 200px;
+    padding: 45px 45px 50px 45px;
+}
+#display{ 
+    margin: 10%;
+    height: 50%;
+    width: 85%;
+    font-size: 30px;
+    margin-left: 15px;
+}
+.button{
+    margin-left: 15px;
+    height: 50%;
+    width: 20%;
+}
+button{
+    height: 50%;
+    width: 20%;
+}
