@@ -1,5 +1,9 @@
 "use strict"
 
-function calculator(){
+const btn = document.getElementById('input')
+const display = document.getElementById('display')
+
+btn.addEventListener('click', function(){
+    display;
     
-}
+})
